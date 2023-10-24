@@ -1,0 +1,7 @@
+.DS_Store
+pyenv
+venv
+env
+data
+
+__pycache__
